@@ -9,6 +9,7 @@ base: '/abdullah-vuepress-site.github.io/',
   description: "A static site built with VuePress v2",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
+    
   ],
   
   theme: defaultTheme({

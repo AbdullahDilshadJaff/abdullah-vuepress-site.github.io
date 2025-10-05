@@ -4,16 +4,16 @@ I'd love to hear from you! Feel free to reach out through any of these channels:
 
 ---
 
-## 📧 Email
-
-**abdulla.00433619@gmail.com**
+## 📧 Contacts
+- **+964 750 360 6613**
+- **abdulla.00433619@gmail.com**
 
 ---
 
 ## 🌐 Social Media
 
-- **GitHub:** [github.com/majdsamer](https://github.com/majdsamer)
-- **LinkedIn:** [linkedin.com/in/majdsamer](https://linkedin.com/in/majdsamer)
+- **LinkedIn:** [linkedin.com/in/AbdullahDilshad](https://linkedin.com/in/AbdullahDilshad)
+- **GitHub:** [github.com/AbdullahDilshadJaff](https://github.com/AbdullahDilshadJaff)
 
 ---
 

@@ -18,14 +18,14 @@ I’m passionate about building creative solutions and exploring how technology 
 ## 💻 Skills
 
 ### Programming Languages
+- Java
 - JavaScript
 - Python
 - HTML/CSS
 
 
 ### Technologies & Tools
-- React
-- Node.js
+- MS Office 
 - Git & GitHub
 - VS Code
 
