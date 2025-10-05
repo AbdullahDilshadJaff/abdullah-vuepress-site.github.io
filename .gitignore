@@ -1,0 +1,26 @@
+# === Dependencies ===
+node_modules/
+
+# === VuePress build output ===
+docs/.vuepress/dist/
+
+# === VuePress cache/temp ===
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
+
+# === Logs ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Environment variables ===
+.env
+
+# === Editor / system files ===
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === Optional lock files (ignore if you don’t want them in git) ===
+# package-lock.json
+# yarn.lock

@@ -1,0 +1,43 @@
+/* Custom colors and fonts */
+:root {
+  --accent-color: #3eaf7c;
+  --text-color: #2c3e50;
+}
+
+/* Hero section */
+.home .hero h1 {
+  font-size: 3rem;
+  color: var(--accent-color);
+}
+
+.home .hero .description {
+  font-size: 1.4rem;
+  color: #666;
+}
+
+/* Feature cards with hover effect */
+.home .feature {
+  padding: 1.5rem;
+  border-radius: 10px;
+  transition: all 0.3s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.home .feature:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+/* Navigation bar */
+.navbar {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Links */
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  text-decoration: underline;
+}

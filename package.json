@@ -1,0 +1,20 @@
+{
+  "name": "abdullah-vuepress-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "docs:dev": "vuepress dev docs",
+  "docs:build": "vuepress build docs"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  "vuepress": "next",
+  "@vuepress/theme-default": "next",
+  "@vuepress/bundler-vite": "next"
+}
+
+}
