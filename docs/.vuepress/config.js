@@ -4,7 +4,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 module.exports = ({
-base: '/abdullah-vuepress-site.github.io/',
+base: '/',
   title: "Abdullah's VuePress Site",
   description: "A static site built with VuePress v2",
   head: [
